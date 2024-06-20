@@ -2087,7 +2087,7 @@
               "properties": {
                 "comment": {
                   "type": "string",
-                  "default": "Write comments for this code. Do not change anything about the code itself."
+                  "default": "Write Chinese comments for this code. Do not modify the code."
                 },
                 "docstring": {
                   "type": "string",
